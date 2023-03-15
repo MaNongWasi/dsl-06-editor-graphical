@@ -70,17 +70,17 @@
     <property role="TrG5h" value="Printer" />
     <node concept="3rUkGx" id="6G5RZuzWuQG" role="3rUkGW">
       <ref role="3rUkGN" node="6G5RZuzWice" resolve="Off" />
-      <ref role="3rUkGL" node="6G5RZuzWuQD" resolve="On" />
-      <ref role="3rUkHe" node="6G5RZuzWuQy" resolve="Turn Off" />
+      <ref role="3rUkGL" node="6G5RZuzWuQD" resolve="Off" />
+      <ref role="3rUkHe" node="6G5RZuzWuQw" resolve="Turn On" />
     </node>
     <node concept="3rUkGx" id="6G5RZuzWuQI" role="3rUkGW">
-      <ref role="3rUkGN" node="6G5RZuzWuQD" resolve="On" />
+      <ref role="3rUkGN" node="6G5RZuzWuQD" resolve="Off" />
       <ref role="3rUkGL" node="6G5RZuzWice" resolve="Off" />
-      <ref role="3rUkHe" node="6G5RZuzWuQw" resolve="Turn On" />
+      <ref role="3rUkHe" node="6G5RZuzWuQy" resolve="Turn Off" />
     </node>
     <node concept="3rUkGx" id="6G5RZuzWuQL" role="3rUkGW">
       <ref role="3rUkHe" node="6G5RZuzWuQ_" resolve="Malfunction Detected" />
-      <ref role="3rUkGN" node="6G5RZuzWuQD" resolve="On" />
+      <ref role="3rUkGN" node="6G5RZuzWuQD" resolve="Off" />
       <ref role="3rUkGL" node="6G5RZuzWuQP" resolve="Failure" />
     </node>
     <node concept="3rUkGy" id="6G5RZuzWuQw" role="3rUkGT">
@@ -97,7 +97,7 @@
       <property role="38Q0cJ" value="true" />
     </node>
     <node concept="3rUkGz" id="6G5RZuzWuQD" role="3rUkGY">
-      <property role="TrG5h" value="On" />
+      <property role="TrG5h" value="Off" />
       <node concept="3rUkGx" id="6G5RZuzWuR3" role="3rUkGW">
         <ref role="3rUkHe" node="6G5RZuzWuQY" resolve="Print Job Arrived" />
         <ref role="3rUkGN" node="6G5RZuzWuQT" resolve="Ready" />
