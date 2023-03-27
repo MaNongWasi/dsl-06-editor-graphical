@@ -323,7 +323,7 @@ public class QueriesGenerated extends QueryProviderBase {
   }
 
   private static final class CONCEPTS {
-    /*package*/ static final SInterfaceConcept IStateMachineContents$nr = MetaAdapterFactory.getInterfaceConcept(0xdac36cdfb92546cfL, 0x8a2c2b6a1b73035cL, 0x6b05dff7a3efd459L, "StateMachine.structure.IStateMachineContents");
-    /*package*/ static final SConcept StateMachine$PH = MetaAdapterFactory.getConcept(0xdac36cdfb92546cfL, 0x8a2c2b6a1b73035cL, 0x51c6850f8a2fce29L, "StateMachine.structure.StateMachine");
+    /*package*/ static final SInterfaceConcept IStateMachineContents$nr = MetaAdapterFactory.getInterfaceConcept(0xdac36cdfb92546cfL, 0x8a2c2b6a1b73035cL, 0x6b05dff7a3efd459L, "com.dslfoundry.statemachine.structure.IStateMachineContents");
+    /*package*/ static final SConcept StateMachine$PH = MetaAdapterFactory.getConcept(0xdac36cdfb92546cfL, 0x8a2c2b6a1b73035cL, 0x51c6850f8a2fce29L, "com.dslfoundry.statemachine.structure.StateMachine");
   }
 }
